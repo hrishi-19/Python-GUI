@@ -10,6 +10,10 @@ URL shortener is a simple python tkinter based application to shorten the url.
 Use the package manager [pip](https://pip.pypa.io/en/stable/) to install following packages :-
 * tkinter
 * pyshorteners
+* pillow
+* random-password-generator
+* pypiwin32
+* SpeechRecognition
 
 ```bash
 pip install tkinter
