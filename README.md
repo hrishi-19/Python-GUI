@@ -2,8 +2,6 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-swag.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 
-URL shortener is a simple python tkinter based application to shorten the url.
-
 
 ## Requirements
 
@@ -15,8 +13,5 @@ Use the package manager [pip](https://pip.pypa.io/en/stable/) to install followi
 * pypiwin32
 * SpeechRecognition
 
-```bash
-pip install tkinter
-pip install pypiwin32
-```
+
 
